@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/allanhnielsen/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
-I'm a senior software enginner and mentor with 20+ years professional experience. I work for JJ Richards & Sons. Currently, I am currently building enterprise applications using .NET, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I am an experienced senior software engineer and mentor with over two decades of professional expertise. Presently, I am employed at JJ Richards & Sons, where my focus lies in the development of enterprise applications utilizing technologies such as .NET, Blazor, and Azure. I thrive on challenging projects and possess the proficiency to transform initial proposals into meticulously crafted, well-defined, coded, and thoroughly tested solutions.
 
 ## GitHub Stats
 
