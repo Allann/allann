@@ -10,5 +10,7 @@ I am an experienced senior software engineer and mentor with over two decades of
 
 ## GitHub Stats
 
-[<img align="center" width="420" src="./github-metrics.svg">](#)
-[<img align="center" width="420" src="./github-achievement-metrics_right.svg">](#)
+[<img align="center" width="420" src="./metrics-left.svg">](#)
+[<img align="center" width="420" src="./metrics-right.svg">](#)
+
+[<img align="center" src="./metrics-bottom.svg">](#)
