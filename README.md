@@ -10,4 +10,5 @@ I am an experienced senior software engineer and mentor with over two decades of
 
 ## GitHub Stats
 
-![Metrics](/github-metrics.svg)
+[<img align="center" width="420" src="./github-metrics.svg">](#)
+[<img align="center" width="420" src="./github-achievement-metrics_right.svg">](#)
