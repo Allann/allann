@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="719" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="656" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors .avatar{margin:2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -36,13 +36,13 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -83,13 +83,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            268 Commits
+                            260 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            112 Pull requests reviewed
+                            116 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -231,60 +231,6 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#31 ThemeManager planned improvements, feedback wanted</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by digitaldirk in <span class="repo">MudBlazor/ThemeManager</span></div>
-                                    <div class="comment">Not sure if you'd like to add another item to the list?  SSR support as it currently only works with CSR.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#27 Controls do not respond to clicks</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by nref in <span class="repo">MudBlazor/ThemeManager</span></div>
-                                    <div class="comment">
-                                        Is that needed when the app globally sets it?
-                                        <code class="language-multiline language-c#" xml:space="preserve">builder.Services.AddRazorComponents()
-    .AddInteractiveServerComponents();</code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/nuget/Verify.Xunit-27.0.1</span>
-                                        in
-                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -295,47 +241,231 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c7acc28</div>
-                                        <div class="message">Bump Verify.Xunit from 26.6.0 to 27.0.1 (#126)
+                                        <div class="sha">#1e66c01</div>
+                                        <div class="message">Bump FluentAssertions from 7.0.0-alpha.4 to 7.0.0-alpha.5 (#129)
 
-Bumps [Verify.Xunit](https://github.com/VerifyTests/Verify) from 26.6.0
-to 27.0.1.
+[//]: # (dependabot-start)
+⚠️  **Dependabot is rebasing this PR** ⚠️ 
+
+Rebasing might not happen immediately, so don't worry if this takes some
+time.
+
+Note: if you make any changes to this PR yourself, they will take
+precedence over the rebase.
+
+---
+
+[//]: # (dependabot-end)
+
+Bumps
+[FluentAssertions](https://github.com/fluentassertions/fluentassertions)
+from 7.0.0-alpha.4 to 7.0.0-alpha.5.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/fluentassertions/fluentassertions/releases"&gt;FluentAssertions's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;7.0.0-alpha.5&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Breaking Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve BeUpperCased/BeLowerCased semantics by &lt;a
+href="https://github.com/drewjcooper"&gt;&lt;code&gt;@​drewjcooper&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2660"&gt;fluentassertions/fluentassertions#2660&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Various naming improvements by &lt;a
+href="https://github.com/dennisdoomen"&gt;&lt;code&gt;@​dennisdoomen&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2745"&gt;fluentassertions/fluentassertions#2745&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Redesign AssertionScope and how it travels over chained calls by &lt;a
+href="https://github.com/dennisdoomen"&gt;&lt;code&gt;@​dennisdoomen&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2539"&gt;fluentassertions/fluentassertions#2539&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simplify inheritance of &lt;code&gt;SubsequentOrderingAssertions&lt;/code&gt; by
+&lt;a href="https://github.com/vbreuss"&gt;&lt;code&gt;@​vbreuss&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2439"&gt;fluentassertions/fluentassertions#2439&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;New features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add scoped value formatters by &lt;a
+href="https://github.com/ITaluone"&gt;&lt;code&gt;@​ITaluone&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2676"&gt;fluentassertions/fluentassertions#2676&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TUnit Framework Support by &lt;a
+href="https://github.com/thomhurst"&gt;&lt;code&gt;@​thomhurst&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2758"&gt;fluentassertions/fluentassertions#2758&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Improvements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add &lt;code&gt;[StringSyntax(&amp;quot;CompositeFormat&amp;quot;)]&lt;/code&gt; to all
+&lt;code&gt;because&lt;/code&gt; parameters by &lt;a
+href="https://github.com/psychotoad"&gt;&lt;code&gt;@​psychotoad&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2635"&gt;fluentassertions/fluentassertions#2635&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add support for &lt;code&gt;Satisfy&lt;/code&gt; on
+&lt;code&gt;ReferenceTypeAssertions&lt;/code&gt; by &lt;a
+href="https://github.com/siewers"&gt;&lt;code&gt;@​siewers&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2597"&gt;fluentassertions/fluentassertions#2597&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Filter the list of events returned by RaisePropertyChangeFor by &lt;a
+href="https://github.com/arocheleau"&gt;&lt;code&gt;@​arocheleau&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2677"&gt;fluentassertions/fluentassertions#2677&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add a bunch of assertions on &lt;code&gt;XElement&lt;/code&gt; and
+&lt;code&gt;XDocument&lt;/code&gt; by &lt;a
+href="https://github.com/ITaluone"&gt;&lt;code&gt;@​ITaluone&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2690"&gt;fluentassertions/fluentassertions#2690&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Correctly specify nullability of Subject for
+&lt;code&gt;NumericAssertions&lt;/code&gt; by &lt;a
+href="https://github.com/vbreuss"&gt;&lt;code&gt;@​vbreuss&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2473"&gt;fluentassertions/fluentassertions#2473&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove non-compliant &lt;code&gt;StringSyntaxAttribute&lt;/code&gt; by &lt;a
+href="https://github.com/IT-VBFK"&gt;&lt;code&gt;@​IT-VBFK&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2669"&gt;fluentassertions/fluentassertions#2669&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Do not use &lt;code&gt;UsingLineBreaks&lt;/code&gt; for
+&lt;code&gt;[Not]BeSameAs&lt;/code&gt; by &lt;a
+href="https://github.com/jnyrup"&gt;&lt;code&gt;@​jnyrup&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2726"&gt;fluentassertions/fluentassertions#2726&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add F# usage docs by &lt;a
+href="https://github.com/cmeeren"&gt;&lt;code&gt;@​cmeeren&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2309"&gt;fluentassertions/fluentassertions#2309&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;[CustomAssertion]&lt;/code&gt; attribute to extensibility docs
+by &lt;a href="https://github.com/eranikid"&gt;&lt;code&gt;@​eranikid&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2689"&gt;fluentassertions/fluentassertions#2689&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updated the sponsors mentioned in the read-me and website by &lt;a
+href="https://github.com/dennisdoomen"&gt;&lt;code&gt;@​dennisdoomen&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2714"&gt;fluentassertions/fluentassertions#2714&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Others&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump Meziantou.Analyzer from 2.0.153 to 2.0.155 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2663"&gt;fluentassertions/fluentassertions#2663&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump the xunit group with 3 updates by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2661"&gt;fluentassertions/fluentassertions#2661&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Roslynator.Analyzers from 4.12.3 to 4.12.4 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2662"&gt;fluentassertions/fluentassertions#2662&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump cspell from 8.8.3 to 8.8.4 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2670"&gt;fluentassertions/fluentassertions#2670&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Meziantou.Analyzer from 2.0.155 to 2.0.158 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2675"&gt;fluentassertions/fluentassertions#2675&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump the xunit group with 3 updates by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2674"&gt;fluentassertions/fluentassertions#2674&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump the xunit group with 3 updates by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2683"&gt;fluentassertions/fluentassertions#2683&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump cspell from 8.8.4 to 8.9.1 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2681"&gt;fluentassertions/fluentassertions#2681&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Machine.Specifications from 1.1.1 to 1.1.2 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2684"&gt;fluentassertions/fluentassertions#2684&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improve code coverage in &lt;code&gt;...Formatter&lt;/code&gt;s by &lt;a
+href="https://github.com/ITaluone"&gt;&lt;code&gt;@​ITaluone&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2679"&gt;fluentassertions/fluentassertions#2679&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add missing tests for several &lt;code&gt;NumericAssertions&lt;/code&gt; by &lt;a
+href="https://github.com/ITaluone"&gt;&lt;code&gt;@​ITaluone&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2686"&gt;fluentassertions/fluentassertions#2686&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Meziantou.Analyzer from 2.0.158 to 2.0.159 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2687"&gt;fluentassertions/fluentassertions#2687&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update FluentAssertions package dependencies by &lt;a
+href="https://github.com/ViktorHofer"&gt;&lt;code&gt;@​ViktorHofer&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2673"&gt;fluentassertions/fluentassertions#2673&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump cspell from 8.9.1 to 8.10.4 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2691"&gt;fluentassertions/fluentassertions#2691&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump JetBrains.Annotations from 2023.3.0 to 2024.2.0 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2693"&gt;fluentassertions/fluentassertions#2693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump the xunit group across 1 directory with 3 updates by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2694"&gt;fluentassertions/fluentassertions#2694&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Meziantou.Analyzer from 2.0.159 to 2.0.160 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2697"&gt;fluentassertions/fluentassertions#2697&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump the xunit group with 4 updates by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2696"&gt;fluentassertions/fluentassertions#2696&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Bogus from 35.5.1 to 35.6.0 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2701"&gt;fluentassertions/fluentassertions#2701&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump cspell from 8.10.4 to 8.11.0 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2702"&gt;fluentassertions/fluentassertions#2702&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Meziantou.Analyzer from 2.0.160 to 2.0.161 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2700"&gt;fluentassertions/fluentassertions#2700&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump the xunit group with 2 updates by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2699"&gt;fluentassertions/fluentassertions#2699&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump cspell from 8.11.0 to 8.12.1 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2708"&gt;fluentassertions/fluentassertions#2708&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump Meziantou.Analyzer from 2.0.161 to 2.0.162 by &lt;a
+href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/pull/2707"&gt;fluentassertions/fluentassertions#2707&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;Commits&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/752a4c27e876bdb4586c6d90cf36e509f833145b"&gt;&lt;code&gt;752a4c2&lt;/code&gt;&lt;/a&gt;
-Update Argon, DiffEngine, FSharp.Core, and SimpleInfoName (&lt;a
-href="https://redirect.github.com/VerifyTests/Verify/issues/1318"&gt;#1318&lt;/a&gt;)&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/70cae37543ffaa90c38b55291fb28518122d8ac0"&gt;&lt;code&gt;70cae37&lt;/code&gt;&lt;/a&gt;
+Increase code coverage (&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/issues/2746"&gt;#2746&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/f265b191bba1d970f04b66c38091f378dfdc4840"&gt;&lt;code&gt;f265b19&lt;/code&gt;&lt;/a&gt;
-missing verifys&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/ce965651e88c9d3ca9a4d6baed6b357fc4e163b9"&gt;&lt;code&gt;ce96565&lt;/code&gt;&lt;/a&gt;
+Correctly specify nullability of Subject for
+&lt;code&gt;NumericAssertions&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/issues/2473"&gt;#2473&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/7987c74c6d0996fabab7deffe053c1a699d8c73d"&gt;&lt;code&gt;7987c74&lt;/code&gt;&lt;/a&gt;
-Update Directory.Build.props&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/8263a6dd515fec4098e907ebea16906f6abffae7"&gt;&lt;code&gt;8263a6d&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/issues/2798"&gt;#2798&lt;/a&gt;
+from dennisdoomen/upmerge-from-master&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/786edd075afc7799c7bc03ec5b9613aa0361dd66"&gt;&lt;code&gt;786edd0&lt;/code&gt;&lt;/a&gt;
-docs&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/54cf77a4aa9567bce33e4650d45f845da16be5c7"&gt;&lt;code&gt;54cf77a&lt;/code&gt;&lt;/a&gt;
+Merge from master&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/29e96663737b78b9cd3ad74b5ca0973e400750a8"&gt;&lt;code&gt;29e9666&lt;/code&gt;&lt;/a&gt;
-re verify&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/0193f584e34fb7641485f679fe8673a4e089864f"&gt;&lt;code&gt;0193f58&lt;/code&gt;&lt;/a&gt;
+Discarded already merged changes from master&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/0eaf5e61e6b87bb58d039f6f95c2ddef6bcae9bb"&gt;&lt;code&gt;0eaf5e6&lt;/code&gt;&lt;/a&gt;
-Update Directory.Build.props&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/cf0aac018791ed8416db8edfa1e0cc2b6bddd67a"&gt;&lt;code&gt;cf0aac0&lt;/code&gt;&lt;/a&gt;
+Add 6.12.1 release notes template&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/ecbc10c7b924c7cd004cfd3add40d79c77ade15e"&gt;&lt;code&gt;ecbc10c&lt;/code&gt;&lt;/a&gt;
-Update Directory.Packages.props&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/c1078de3b4fa94e26e9e4121332f6fad585ddb62"&gt;&lt;code&gt;c1078de&lt;/code&gt;&lt;/a&gt;
+Updated the sponsors mentioned in the read-me and website&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/c32a9914bb515af5eba409a9ae1696b1ee052038"&gt;&lt;code&gt;c32a991&lt;/code&gt;&lt;/a&gt;
-Update Directory.Packages.props&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/d091986937fbaa60186689691209b5eff9cef352"&gt;&lt;code&gt;d091986&lt;/code&gt;&lt;/a&gt;
+Add a bunch of assertions on &lt;code&gt;XElement&lt;/code&gt; and
+&lt;code&gt;XDocument&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/issues/2690"&gt;#2690&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/0b4a32cfde65b18c95db75b51ba50003716093f4"&gt;&lt;code&gt;0b4a32c&lt;/code&gt;&lt;/a&gt;
-docs&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/47a941ecc6f2dd92052a8265e70d29d3a80c4945"&gt;&lt;code&gt;47a941e&lt;/code&gt;&lt;/a&gt;
+Fix Qodana for PRs (&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/issues/2796"&gt;#2796&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/VerifyTests/Verify/commit/398a6dbdd0bdef95c765849283c411cbb032590e"&gt;&lt;code&gt;398a6db&lt;/code&gt;&lt;/a&gt;
-docs&lt;/li&gt;
+href="https://github.com/fluentassertions/fluentassertions/commit/db41db41b37b410ce6d9f802e573bdfb8522cf61"&gt;&lt;code&gt;db41db4&lt;/code&gt;&lt;/a&gt;
+Bump rexml from 3.3.7 to 3.3.9 in /docs (&lt;a
+href="https://redirect.github.com/fluentassertions/fluentassertions/issues/2793"&gt;#2793&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/VerifyTests/Verify/compare/26.6.0...27.0.1"&gt;compare
+href="https://github.com/fluentassertions/fluentassertions/compare/7.0.0-alpha.4...7.0.0-alpha.5"&gt;compare
 view&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -343,7 +473,7 @@ view&lt;/a&gt;&lt;/li&gt;
 
 
 [![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=Verify.Xunit&amp;package-manager=nuget&amp;previous-version=26.6.0&amp;new-version=27.0.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=FluentAssertions&amp;package-manager=nuget&amp;previous-version=7.0.0-alpha.4&amp;new-version=7.0.0-alpha.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
 Dependabot will resolve any conflicts with this PR as long as you don't
 alter it yourself. You can also trigger a rebase manually by commenting
@@ -391,12 +521,188 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 </div>
                             </section>
                         </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/FluentAssertions-7.0.0-alpha.5</span>
+                                        in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#320d0ca</div>
+                                        <div class="message">Bump Serilog.Enrichers.Demystifier from 1.0.2 to 1.0.3 (#128)
+
+[//]: # (dependabot-start)
+⚠️  **Dependabot is rebasing this PR** ⚠️ 
+
+Rebasing might not happen immediately, so don't worry if this takes some
+time.
+
+Note: if you make any changes to this PR yourself, they will take
+precedence over the rebase.
+
+---
+
+[//]: # (dependabot-end)
+
+Bumps
+[Serilog.Enrichers.Demystifier](https://github.com/Megasware128/serilog-enrichers-demystifier)
+from 1.0.2 to 1.0.3.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/52105de9981a5b695fadc854709726bf8550f34c"&gt;&lt;code&gt;52105de&lt;/code&gt;&lt;/a&gt;
+Update GitHub Actions workflows to set fetch-depth to 0 for
+GitVersion&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/fcc3920c2db5361505e2e497cd22d57505c5cbe9"&gt;&lt;code&gt;fcc3920&lt;/code&gt;&lt;/a&gt;
+Update target framework to .NET 8.0 for TestApp&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/c625c4cf27cd6e77e726a14221b7953e4bd7b138"&gt;&lt;code&gt;c625c4c&lt;/code&gt;&lt;/a&gt;
+Update build configuration to support .NET 8.0 and adjust target
+frameworks&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/00291e722347d8324c19dc60b101433944ddebef"&gt;&lt;code&gt;00291e7&lt;/code&gt;&lt;/a&gt;
+Update CI workflows to set fetch-depth to 0 for GitVersion&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/35aba9553de5aee8ef05130662933e4d3bd27912"&gt;&lt;code&gt;35aba95&lt;/code&gt;&lt;/a&gt;
+Update GitHub Actions workflows and build schema for improved caching
+and art...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/e25ada01640fc35201c66a03e276b3346aadb220"&gt;&lt;code&gt;e25ada0&lt;/code&gt;&lt;/a&gt;
+Update build scripts and project files for .NET 8.0 and Nuke.Common
+8.1.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/bd3204f0204507da6b743f89f192a0a7fea476aa"&gt;&lt;code&gt;bd3204f&lt;/code&gt;&lt;/a&gt;
+Update NuGet packages&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/6a016a5ba4b63269ba6d717ad68618a267b80837"&gt;&lt;code&gt;6a016a5&lt;/code&gt;&lt;/a&gt;
+Make sure to pack after testing&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/3fb954728eb51b20aff3b8412f71ca30203973cb"&gt;&lt;code&gt;3fb9547&lt;/code&gt;&lt;/a&gt;
+Merge branch 'main' of &lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demy"&gt;https://github.com/Megasware128/serilog-enrichers-demy&lt;/a&gt;...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/commit/b3439321ba2a3eb388d36756d1563dc03ce4ff37"&gt;&lt;code&gt;b343932&lt;/code&gt;&lt;/a&gt;
+Test example app&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/Megasware128/serilog-enrichers-demystifier/compare/v1.0.2...v1.0.3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=Serilog.Enrichers.Demystifier&amp;package-manager=nuget&amp;previous-version=1.0.2&amp;new-version=1.0.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/Serilog.Enrichers.Demystifier-1.0.3</span>
+                                        in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/NSubstitute-5.3.0</span>
+                                        in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Nov 2024, 10:18:54 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 10:17:50 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
