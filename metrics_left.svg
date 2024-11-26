@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="970" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="689" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -83,13 +83,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            251 Commits
+                            248 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            118 Pull requests reviewed
+                            121 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -231,134 +231,343 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">Modeller-net/Apis</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">Modeller-net/Apis</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 184 commits in
-                                        <span class="repo">Allann/FastEndpoints</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bca8bdd</div>
-                                        <div class="message">fix #709 - path param substring matching issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#751ea2a</div>
-                                        <div class="message">wip: job cancellation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2cd1dd</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/FastEndpoints/FastEndpoints</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fb8fc9</div>
-                                        <div class="message">disable discord badge on readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d853c3a</div>
-                                        <div class="message">wip
+                                        <div class="sha">#6dce962</div>
+                                        <div class="message">Bump Microsoft.Extensions.Logging.Abstractions from 8.0.2 to 9.0.0 (#135)
 
-wip</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd59da0</div>
-                                        <div class="message">wip
+[//]: # (dependabot-start)
+⚠️  **Dependabot is rebasing this PR** ⚠️ 
 
-wip
+Rebasing might not happen immediately, so don't worry if this takes some
+time.
 
-wip
+Note: if you make any changes to this PR yourself, they will take
+precedence over the rebase.
 
-wip</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a87f23</div>
-                                        <div class="message">fix cookie expiresutc issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1599c51</div>
-                                        <div class="message">workaround for persistent cookies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e616ba</div>
-                                        <div class="message">swagger2 extension</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eb8af3</div>
-                                        <div class="message">extension methods to check app mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3422ada</div>
-                                        <div class="message">fix sourcegen issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da5cde0</div>
-                                        <div class="message">final fix for #704</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#956fd4c</div>
-                                        <div class="message">override cookie auth redirect behavior</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2452f1</div>
-                                        <div class="message">revert #704</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b826fed</div>
-                                        <div class="message">fix #704</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cbda25</div>
-                                        <div class="message">finally fix #695</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51f6dbe</div>
-                                        <div class="message">remove redundant `Task.WhenAny` from job queue processing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab8f8a1</div>
-                                        <div class="message">bump version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55502a1</div>
-                                        <div class="message">`v5.26` release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edb3836</div>
-                                        <div class="message">workaround for nswag nullable enum schema issue
+---
 
-fixes #699</div>
+[//]: # (dependabot-end)
+
+Bumps
+[Microsoft.Extensions.Logging.Abstractions](https://github.com/dotnet/runtime)
+from 8.0.2 to 9.0.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/dotnet/runtime/releases"&gt;Microsoft.Extensions.Logging.Abstractions's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;.NET 9.0.0&lt;/h2&gt;
+&lt;p&gt;&lt;a
+href="https://github.com/dotnet/core/releases/tag/v9.0.0"&gt;Release&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[release/9.0] BinaryFormatter tests improvements by &lt;a
+href="https://github.com/adamsitnik"&gt;&lt;code&gt;@​adamsitnik&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107540"&gt;dotnet/runtime#107540&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from
+dotnet/source-build-reference-packages by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107474"&gt;dotnet/runtime#107474&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Branding for GA by &lt;a
+href="https://github.com/carlossanlop"&gt;&lt;code&gt;@​carlossanlop&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107879"&gt;dotnet/runtime#107879&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/source-build-externals
+by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107914"&gt;dotnet/runtime#107914&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/icu by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107918"&gt;dotnet/runtime#107918&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/hotreload-utils by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107916"&gt;dotnet/runtime#107916&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/cecil by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107915"&gt;dotnet/runtime#107915&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from
+dotnet/source-build-reference-packages by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107938"&gt;dotnet/runtime#107938&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/source-build-externals
+by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107982"&gt;dotnet/runtime#107982&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/cecil by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107983"&gt;dotnet/runtime#107983&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Remove invalid assert in RSAOpenSsl by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107952"&gt;dotnet/runtime#107952&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[automated] Merge branch 'release/9.0-rc2' =&amp;gt; 'release/9.0' by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107928"&gt;dotnet/runtime#107928&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/arcade by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107937"&gt;dotnet/runtime#107937&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/roslyn by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107984"&gt;dotnet/runtime#107984&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Mitigate JsonObject performance regression. by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108014"&gt;dotnet/runtime#108014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Fix SG nullability annotations for required and init
+properties. by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108013"&gt;dotnet/runtime#108013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/hotreload-utils by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108016"&gt;dotnet/runtime#108016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Treat -rtm as stable sdk version band by &lt;a
+href="https://github.com/lewing"&gt;&lt;code&gt;@​lewing&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/107997"&gt;dotnet/runtime#107997&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] dont try to capture threadId for NativeAOT by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108088"&gt;dotnet/runtime#108088&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/runtime by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108140"&gt;dotnet/runtime#108140&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Fix createdump 'stack smashing detected' error on
+arm64 by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108208"&gt;dotnet/runtime#108208&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] [browser] Fix fingerprinting and
+loadAllSatelliteResources=true by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108198"&gt;dotnet/runtime#108198&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[automated] Merge branch 'release/9.0-rc2' =&amp;gt; 'release/9.0' by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108006"&gt;dotnet/runtime#108006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] More doc updates for source-of-truth assemblies by &lt;a
+href="https://github.com/carlossanlop"&gt;&lt;code&gt;@​carlossanlop&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108257"&gt;dotnet/runtime#108257&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from
+dotnet/source-build-reference-packages by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108142"&gt;dotnet/runtime#108142&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/roslyn by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108061"&gt;dotnet/runtime#108061&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/cecil by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108192"&gt;dotnet/runtime#108192&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/hotreload-utils by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108193"&gt;dotnet/runtime#108193&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/arcade by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108194"&gt;dotnet/runtime#108194&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from
+dnceng/internal/dotnet-optimization by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108139"&gt;dotnet/runtime#108139&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Reduce funceval abort by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108256"&gt;dotnet/runtime#108256&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update sign-diagnostic-files.yml to skip dac sign in
+staging by &lt;a
+href="https://github.com/hoyosjs"&gt;&lt;code&gt;@​hoyosjs&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108218"&gt;dotnet/runtime#108218&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Root the System.Runtime EventSource by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108348"&gt;dotnet/runtime#108348&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Fixing SetSlice, Reshape, TryCopyTo. by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108282"&gt;dotnet/runtime#108282&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/sdk by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108141"&gt;dotnet/runtime#108141&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/source-build-externals
+by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108436"&gt;dotnet/runtime#108436&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/hotreload-utils by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108438"&gt;dotnet/runtime#108438&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/roslyn-analyzers by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108367"&gt;dotnet/runtime#108367&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/runtime by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108391"&gt;dotnet/runtime#108391&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update dependencies from dotnet/cecil by &lt;a
+href="https://github.com/dotnet-maestro"&gt;&lt;code&gt;@​dotnet-maestro&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108437"&gt;dotnet/runtime#108437&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Update System.Formats.Nrbf ref sources and restore
+package description by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108467"&gt;dotnet/runtime#108467&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] [aot] mono_aot_split_options: reset state after a
+backslash by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108212"&gt;dotnet/runtime#108212&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Fix devirtualization across genericness in the
+hierarchy by &lt;a
+href="https://github.com/MichalStrehovsky"&gt;&lt;code&gt;@​MichalStrehovsky&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108470"&gt;dotnet/runtime#108470&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] [cdac][cdac-build-tool] Don't let msbuild rewrite the
+resource name by &lt;a
+href="https://github.com/github-actions"&gt;&lt;code&gt;@​github-actions&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108296"&gt;dotnet/runtime#108296&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Fix &lt;code&gt;InlineArray&lt;/code&gt; swift lowering in mono by
+&lt;a href="https://github.com/jkurdek"&gt;&lt;code&gt;@​jkurdek&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108483"&gt;dotnet/runtime#108483&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[release/9.0] Backport PR &lt;a
+href="https://redirect.github.com/dotnet/runtime/issues/108311"&gt;#108311&lt;/a&gt;
+- Fix statics issue with barriers by &lt;a
+href="https://github.com/davidwrighton"&gt;&lt;code&gt;@​davidwrighton&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/dotnet/runtime/pull/108347"&gt;dotnet/runtime#108347&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/9d5a6a9aa463d6d10b0b0ba6d5982cc82f363dc3"&gt;&lt;code&gt;9d5a6a9&lt;/code&gt;&lt;/a&gt;
+Merge commit '7dab903b20269d78c6bc08d5269947db7d35c22b'&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/7dab903b20269d78c6bc08d5269947db7d35c22b"&gt;&lt;code&gt;7dab903&lt;/code&gt;&lt;/a&gt;
+Update dependencies from &lt;a
+href="https://github.com/dotnet/emsdk"&gt;https://github.com/dotnet/emsdk&lt;/a&gt;
+build 20241028.2 (&lt;a
+href="https://redirect.github.com/dotnet/runtime/issues/1"&gt;#1&lt;/a&gt;...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/5f6da416352c99eb0460211853b69b99026c6757"&gt;&lt;code&gt;5f6da41&lt;/code&gt;&lt;/a&gt;
+Merge commit '7b9e6158be5956687564d249afdad36fbc57750e'&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/7b9e6158be5956687564d249afdad36fbc57750e"&gt;&lt;code&gt;7b9e615&lt;/code&gt;&lt;/a&gt;
+Bump downlevels for 9.0 (&lt;a
+href="https://redirect.github.com/dotnet/runtime/issues/109288"&gt;#109288&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/0456c7e91c34003f26acf8606ba9d20e29f518bd"&gt;&lt;code&gt;0456c7e&lt;/code&gt;&lt;/a&gt;
+Merge commit '2b46f3a7eb3d0df99c523e5648f00cc8b53caa05'&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/2b46f3a7eb3d0df99c523e5648f00cc8b53caa05"&gt;&lt;code&gt;2b46f3a&lt;/code&gt;&lt;/a&gt;
+[release/9.0] Permit unencrypted key exports from CNG (&lt;a
+href="https://redirect.github.com/dotnet/runtime/issues/109134"&gt;#109134&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/2df113716c90ff0228dab915ce6daffc9789847a"&gt;&lt;code&gt;2df1137&lt;/code&gt;&lt;/a&gt;
+Merge commit 'f9b6a512f7dea63d0c55648576b11790362c7e12'&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/f9b6a512f7dea63d0c55648576b11790362c7e12"&gt;&lt;code&gt;f9b6a51&lt;/code&gt;&lt;/a&gt;
+Update dependencies from &lt;a
+href="https://github.com/dotnet/emsdk"&gt;https://github.com/dotnet/emsdk&lt;/a&gt;
+build 20241019.2 (&lt;a
+href="https://redirect.github.com/dotnet/runtime/issues/1"&gt;#1&lt;/a&gt;...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/ab1c0fbe59c0e5d47376e873481ff08f2c962d9a"&gt;&lt;code&gt;ab1c0fb&lt;/code&gt;&lt;/a&gt;
+Merge commit 'd5baa14e684167fabdd980ee16d307994398f912'&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dotnet/runtime/commit/d5baa14e684167fabdd980ee16d307994398f912"&gt;&lt;code&gt;d5baa14&lt;/code&gt;&lt;/a&gt;
+[release/9.0] Initialize managed and native values in the
+ICustomMarshaler ma...&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/dotnet/runtime/compare/v8.0.2...v9.0.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=Microsoft.Extensions.Logging.Abstractions&amp;package-manager=nuget&amp;previous-version=8.0.2&amp;new-version=9.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -372,7 +581,23 @@ fixes #699</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/nuget/YamlDotNet-16.2.0</span>
+                                        <span class="code">dependabot/nuget/Microsoft.Extensions.Logging.Abstractions-9.0.0</span>
+                                        in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/FluentValidation-11.11.0</span>
                                         in
                                         <span class="repo">JJs-Waste-Recycling/Modeller</span>
                                     </div>
@@ -393,97 +618,167 @@ fixes #699</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e14e140</div>
-                                        <div class="message">Bump YamlDotNet from 16.1.3 to 16.2.0 (#132)
+                                        <div class="sha">#37e02f7</div>
+                                        <div class="message">Bump FluentValidation from 11.10.0 to 11.11.0 (#136)
 
-Bumps [YamlDotNet](https://github.com/aaubry/YamlDotNet) from 16.1.3 to
-16.2.0.
+Bumps
+[FluentValidation](https://github.com/JeremySkinner/fluentvalidation)
+from 11.10.0 to 11.11.0.
 &lt;details&gt;
 &lt;summary&gt;Release notes&lt;/summary&gt;
 &lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/aaubry/YamlDotNet/releases"&gt;YamlDotNet's
+href="https://github.com/JeremySkinner/fluentvalidation/releases"&gt;FluentValidation's
 releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h2&gt;Release 16.2.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h2&gt;11.11.0&lt;/h2&gt;
+&lt;h1&gt;Release notes&lt;/h1&gt;
+&lt;p&gt;&lt;a
+href="https://docs.fluentvalidation.net/en/latest/upgrading-to-11.html"&gt;Please
+read the upgrade guide if you are moving from 10.x to 11.x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note that the after 11.1.0 release, the
+&lt;code&gt;FluentValidation.AspNetCore&lt;/code&gt; package has been moved to a
+separate repository and is now versioned and released separately. These
+release notes now only apply to the core &lt;code&gt;FluentValidation&lt;/code&gt;
+package. For &lt;code&gt;FluentValidation.AspNetCore&lt;/code&gt; release notes,
+please visit the &lt;a
+href="https://github.com/FluentValidation/FluentValidation.AspNetCore"&gt;FluentValidation.AspNetCore
+repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Changes in 11.11.0&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Support YamlConverterAttribute in attribute overrides by &lt;a
-href="https://github.com/ChristopherMann"&gt;&lt;code&gt;@​ChristopherMann&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/1003"&gt;aaubry/YamlDotNet#1003&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix JSON serialization for UTF-32 characters. by &lt;a
-href="https://github.com/nahk-ivanov"&gt;&lt;code&gt;@​nahk-ivanov&lt;/code&gt;&lt;/a&gt; in
-&lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/998"&gt;aaubry/YamlDotNet#998&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;fix: floating-point number serialization issue for non-normal values
-by &lt;a href="https://github.com/filzrev"&gt;&lt;code&gt;@​filzrev&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/992"&gt;aaubry/YamlDotNet#992&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;perf: Optimize regular numbers parse logics by &lt;a
-href="https://github.com/filzrev"&gt;&lt;code&gt;@​filzrev&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/990"&gt;aaubry/YamlDotNet#990&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add additional overload of WithState that takes a context (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2276"&gt;#2276&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;h2&gt;Changes in 11.10.0&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/ChristopherMann"&gt;&lt;code&gt;@​ChristopherMann&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/1003"&gt;aaubry/YamlDotNet#1003&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/nahk-ivanov"&gt;&lt;code&gt;@​nahk-ivanov&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/998"&gt;aaubry/YamlDotNet#998&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/filzrev"&gt;&lt;code&gt;@​filzrev&lt;/code&gt;&lt;/a&gt; made
-their first contribution in &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/pull/992"&gt;aaubry/YamlDotNet#992&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add WhereAsync as conterpart to Where on collection rules (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2240"&gt;#2240&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Create IEnumValidator to expose the targeted Enum type of
+EnumValidator (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2244"&gt;#2244&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add Romansh language translations (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2239"&gt;#2239&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/aaubry/YamlDotNet/compare/v16.1.3...v16.2.0"&gt;https://github.com/aaubry/YamlDotNet/compare/v16.1.3...v16.2.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Changes in 11.9.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ScalePrecisionValidator&lt;/code&gt; error message clarification (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2211"&gt;#2211&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.9.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix issue with CascadeMode on child validators (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2207"&gt;#2207&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.9.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix memory leak in NotEmptyValidator/EmptyValidator (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2174"&gt;#2174&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add more descriptive error messages if a rule throws a
+&lt;code&gt;NullReferenceException&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2152"&gt;#2152&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add support for caching root parameter expressions (eg
+&lt;code&gt;RuleFor(x =&amp;gt; x)&lt;/code&gt;) (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2168"&gt;#2168&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Prevent &lt;code&gt;AddValidatorsFromAssemblyContaining&lt;/code&gt; from
+registering validators twice (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2182"&gt;#2182&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add builds for .net 8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.8.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix unintentional behavioural changes in introduced in the previous
+release as part of &lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2158"&gt;#2158&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.8.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;AbstractValidator.OnRuleAdded&lt;/code&gt; to allow
+customization of rule instances after creation (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2114"&gt;#2114&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix Serbian translation of LengthValidator (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2147"&gt;#2147&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix chinese culture codes (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2151"&gt;#2151&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add Khmer translations (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2155"&gt;#2155&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Various performance improvements (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2158"&gt;#2158&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix ChildRules with class hierarchies (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2165"&gt;#2165&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.7.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Resolved issue with combining multiple ValidationResult instances
+where RuleSetsExecuted wasn't properly set on the combined result (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2125"&gt;#2125&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.7.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add additional constructor for combining multiple ValidationResult
+instances (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2125"&gt;#2125&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add PropertyPath placeholder (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2134"&gt;#2134&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix Brazilian Portuguese translation (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2131"&gt;#2131&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes in 11.6.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add OnFailurecCreated callback in ValidatorOptions.Global (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2120"&gt;#2120&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix typo in Russian localization (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2102"&gt;#2102&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/FluentValidation/FluentValidation/blob/main/Changelog.txt"&gt;FluentValidation's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;11.11.0 - 16 Nov 2024
+Add additional overload of WithState that takes a context (&lt;a
+href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2276"&gt;#2276&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;Commits&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/9a977ef47e70498a69e4bf8ea712a6345f8557c8"&gt;&lt;code&gt;9a977ef&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/issues/990"&gt;#990&lt;/a&gt;
-from filzrev/perf-optimize-parse-numbers&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/c8c6400fa2f467d65669b78804613d44066c1c33"&gt;&lt;code&gt;c8c6400&lt;/code&gt;&lt;/a&gt;
+Update version and changelog&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/9495afa1f0b13e09944efd17f74d2ef4b90ffe76"&gt;&lt;code&gt;9495afa&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/issues/992"&gt;#992&lt;/a&gt;
-from filzrev/fix-json-number-serialization&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/8f9a24b51aee1721a88824c7a5e18aaefcdda8d0"&gt;&lt;code&gt;8f9a24b&lt;/code&gt;&lt;/a&gt;
+Simplify test implementation&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/d2128b2862f0aca24401bcc4fc9885ce2ea634bf"&gt;&lt;code&gt;d2128b2&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/issues/998"&gt;#998&lt;/a&gt;
-from nahk-ivanov/alexiva/fix-json-utf32&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/7a82579cf28a09342ddabfff28e09bd994cd6330"&gt;&lt;code&gt;7a82579&lt;/code&gt;&lt;/a&gt;
+Add WithState(...) overload with access to
+ValidationContext&amp;lt;T&amp;gt;&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/1055eb783640cba397b045bfef895daefeb1e855"&gt;&lt;code&gt;1055eb7&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/aaubry/YamlDotNet/issues/1003"&gt;#1003&lt;/a&gt;
-from ChristopherMann/yaml-converter-override&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/f534dca8bee4223dbc8f30e2a1870b59a390177c"&gt;&lt;code&gt;f534dca&lt;/code&gt;&lt;/a&gt;
+move to LangVersion&amp;gt;12&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/2eb90237db3bea8895d3e61aa5d220a2b3b33c31"&gt;&lt;code&gt;2eb9023&lt;/code&gt;&lt;/a&gt;
-Support YamlConverterAttribute in attribute overrides&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/0b4867df6af7cdd715b6d57965ff746e91425502"&gt;&lt;code&gt;0b4867d&lt;/code&gt;&lt;/a&gt;
+leverage MSBuildThisFileDirectory to simplify path resolution&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/9f39f5736ee11d4923071a73bd992c158cfe8a7d"&gt;&lt;code&gt;9f39f57&lt;/code&gt;&lt;/a&gt;
-chore: remove incorrect comment&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/4566c4f91f8aed3d05f3185f301d234a97ddaa3f"&gt;&lt;code&gt;4566c4f&lt;/code&gt;&lt;/a&gt;
+remove LegacyRulesetSplit&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/733363547f72cef8e45f419e8cc1c25279e0640a"&gt;&lt;code&gt;7333635&lt;/code&gt;&lt;/a&gt;
-Address comments&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/f322bb3d6d37e7cf9c8bccc1be0727ef75e30dce"&gt;&lt;code&gt;f322bb3&lt;/code&gt;&lt;/a&gt;
+remove some redundant casts&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/6c26d5c2bc99427633a76da704efa35acdf20ace"&gt;&lt;code&gt;6c26d5c&lt;/code&gt;&lt;/a&gt;
-Fix JSON serialization for UTF-32 characters.&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/550ec5fff2a90c3da41b067f4831186aa833af64"&gt;&lt;code&gt;550ec5f&lt;/code&gt;&lt;/a&gt;
+move SignAssembly to props and remove redundant DelaySign&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/eb3783475fb4a33afcf6672d3db6312b4a6a8f95"&gt;&lt;code&gt;eb37834&lt;/code&gt;&lt;/a&gt;
-fix: floating-point number serialization issue for non-normal
-values&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/bc2eb7b4c8c12683009887fc0f6b76855a0d1090"&gt;&lt;code&gt;bc2eb7b&lt;/code&gt;&lt;/a&gt;
+remove some redundant private set&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/aaubry/YamlDotNet/commit/2d369d59b660449eaf38e00f34fd8abdbb5a5673"&gt;&lt;code&gt;2d369d5&lt;/code&gt;&lt;/a&gt;
-chore: modify code that is pointed out in the code review&lt;/li&gt;
+href="https://github.com/FluentValidation/FluentValidation/commit/3cc76cd041c7e996d8f3e0c2683dedc22e6b8f9b"&gt;&lt;code&gt;3cc76cd&lt;/code&gt;&lt;/a&gt;
+remove some usings&lt;/li&gt;
 &lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/aaubry/YamlDotNet/compare/v16.1.3...v16.2.0"&gt;compare
+href="https://github.com/JeremySkinner/fluentvalidation/compare/11.10.0...11.11.0"&gt;compare
 view&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -491,7 +786,225 @@ view&lt;/a&gt;&lt;/li&gt;
 
 
 [![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=YamlDotNet&amp;package-manager=nuget&amp;previous-version=16.1.3&amp;new-version=16.2.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=FluentValidation&amp;package-manager=nuget&amp;previous-version=11.10.0&amp;new-version=11.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a365365</div>
+                                        <div class="message">Bump Microsoft.NET.Test.Sdk from 17.11.1 to 17.12.0 (#137)
+
+[//]: # (dependabot-start)
+⚠️  **Dependabot is rebasing this PR** ⚠️ 
+
+Rebasing might not happen immediately, so don't worry if this takes some
+time.
+
+Note: if you make any changes to this PR yourself, they will take
+precedence over the rebase.
+
+---
+
+[//]: # (dependabot-end)
+
+Bumps [Microsoft.NET.Test.Sdk](https://github.com/microsoft/vstest) from
+17.11.1 to 17.12.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/microsoft/vstest/releases"&gt;Microsoft.NET.Test.Sdk's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v17.12.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dispose IDisposables in HtmlTransformer by &lt;a
+href="https://github.com/omajid"&gt;&lt;code&gt;@​omajid&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5099"&gt;microsoft/vstest#5099&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dipose XmlReaders in Microsoft.TestPlatform.Common.RunSettings by &lt;a
+href="https://github.com/omajid"&gt;&lt;code&gt;@​omajid&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5100"&gt;microsoft/vstest#5100&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;use some collection expressions by &lt;a
+href="https://github.com/SimonCropp"&gt;&lt;code&gt;@​SimonCropp&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5055"&gt;microsoft/vstest#5055&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix Reference typos by &lt;a
+href="https://github.com/SimonCropp"&gt;&lt;code&gt;@​SimonCropp&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5155"&gt;microsoft/vstest#5155&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add option to overwrite trx without warning by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5141"&gt;microsoft/vstest#5141&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Internal and infrastructure fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Downgrade xunit skip warning to info by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/10379"&gt;microsoft/vstest#10379&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fallback to latest runtimeconfig when none is found by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5136"&gt;microsoft/vstest#5136&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Verify architecture and version of produced exes by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5134"&gt;microsoft/vstest#5134&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix runtime config tests by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5137"&gt;microsoft/vstest#5137&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dispose helper when parsing args by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5126"&gt;microsoft/vstest#5126&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cleanup and bump required runtimes by &lt;a
+href="https://github.com/Evangelink"&gt;&lt;code&gt;@​Evangelink&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5139"&gt;microsoft/vstest#5139&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix help warnings by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5140"&gt;microsoft/vstest#5140&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix timing in simple log by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5143"&gt;microsoft/vstest#5143&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Check vstest.console.dll instead of .exe by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5149"&gt;microsoft/vstest#5149&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Report version from nuget check by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5161"&gt;microsoft/vstest#5161&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Move IncludeSourceRevisionInInformationalVersion by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5166"&gt;microsoft/vstest#5166&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Enable or disable new logger based on TL flag by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5167"&gt;microsoft/vstest#5167&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updating Microsoft.CodeCoverage package structure by &lt;a
+href="https://github.com/fhnaseer"&gt;&lt;code&gt;@​fhnaseer&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5169"&gt;microsoft/vstest#5169&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wait for Discovery to initialize before Cancelling it by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5177"&gt;microsoft/vstest#5177&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adding condition to disable MsCoverage refrenced path maps by &lt;a
+href="https://github.com/fhnaseer"&gt;&lt;code&gt;@​fhnaseer&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5189"&gt;microsoft/vstest#5189&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Forward error output from testhost as info by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5192"&gt;microsoft/vstest#5192&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update Microsoft.Extensions.DependencyModel to 3.1.0 by &lt;a
+href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/5188"&gt;microsoft/vstest#5188&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ExcludeFromSourceBuild-&amp;gt;ExcludeFromSourceOnlyBuild by &lt;a
+href="https://github.com/mmitche"&gt;&lt;code&gt;@​mmitche&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/10354"&gt;microsoft/vstest#10354&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Enable policheck by &lt;a
+href="https://github.com/jakubch1"&gt;&lt;code&gt;@​jakubch1&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/microsoft/vstest/pull/10363"&gt;microsoft/vstest#10363&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/microsoft/vstest/compare/v17.11.1...v17.12.0"&gt;https://github.com/microsoft/vstest/compare/v17.11.1...v17.12.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/bc9161306b23641b0364b8f93d546da4d48da1eb"&gt;&lt;code&gt;bc91613&lt;/code&gt;&lt;/a&gt;
+Downgrade xunit skip warning to info (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/10379"&gt;#10379&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/c8f1628bcfce589e3165e171ecf8a8ce5b3c688f"&gt;&lt;code&gt;c8f1628&lt;/code&gt;&lt;/a&gt;
+Convert to auto property (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/10365"&gt;#10365&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/8c6ff8c6a8e74e74f91a221719ab93e00b5983e0"&gt;&lt;code&gt;8c6ff8c&lt;/code&gt;&lt;/a&gt;
+Use macos13&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/fa0c8fdeffaed154d3181fb2c18ffc7d5c22e3c8"&gt;&lt;code&gt;fa0c8fd&lt;/code&gt;&lt;/a&gt;
+Rebrand to release&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/c02e98d3342b63085ffc57ac6796d6a2cbe3d2c2"&gt;&lt;code&gt;c02e98d&lt;/code&gt;&lt;/a&gt;
+Update diagnose.md&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/ec81d7d38cfea9a894426c515baa9593affcc8c6"&gt;&lt;code&gt;ec81d7d&lt;/code&gt;&lt;/a&gt;
+Enable policheck (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/10363"&gt;#10363&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/09b76005ba2026b27b8272f1230a136ebd618ac2"&gt;&lt;code&gt;09b7600&lt;/code&gt;&lt;/a&gt;
+[main] Update dependencies from devdiv/DevDiv/vs-code-coverage (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/10360"&gt;#10360&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/4f16fc041b85e102c7ee783ed4124d733d067c74"&gt;&lt;code&gt;4f16fc0&lt;/code&gt;&lt;/a&gt;
+[main] Update dependencies from devdiv/DevDiv/vs-code-coverage (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/10353"&gt;#10353&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/1eb6f23d7739d540ca479b5c031c5fbbb5458a26"&gt;&lt;code&gt;1eb6f23&lt;/code&gt;&lt;/a&gt;
+ExcludeFromSourceBuild-&amp;gt;ExcludeFromSourceOnlyBuild (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/10354"&gt;#10354&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/vstest/commit/96977dbeec2d51f920338c303eba8c23bafb35b4"&gt;&lt;code&gt;96977db&lt;/code&gt;&lt;/a&gt;
+Update Microsoft.Extensions.DependencyModel to 3.1.0 (&lt;a
+href="https://redirect.github.com/microsoft/vstest/issues/5188"&gt;#5188&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/microsoft/vstest/compare/v17.11.1...v17.12.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=Microsoft.NET.Test.Sdk&amp;package-manager=nuget&amp;previous-version=17.11.1&amp;new-version=17.12.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
 Dependabot will resolve any conflicts with this PR as long as you don't
 alter it yourself. You can also trigger a rebase manually by commenting
@@ -545,7 +1058,7 @@ Co-authored-by: Allan Nielsen &lt;2005474+Allann@users.noreply.github.com&gt;</d
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2024, 10:19:40 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 10:19:09 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
