@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="689" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="621" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -36,14 +36,14 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 17 repositories
+                            Contributed to 18 repositories
                         </div>
                     </section>
                 </div>
@@ -141,7 +141,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 74 repositories
+                            Starred 75 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            24 Repositories
+                            25 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -227,6 +227,34 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">atifaziz/NCrontab</span>
+                                        to
+                                        <span class="repo">Allann/NCrontab</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">atifaziz/NCrontab</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -604,461 +632,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#37e02f7</div>
-                                        <div class="message">Bump FluentValidation from 11.10.0 to 11.11.0 (#136)
-
-Bumps
-[FluentValidation](https://github.com/JeremySkinner/fluentvalidation)
-from 11.10.0 to 11.11.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/JeremySkinner/fluentvalidation/releases"&gt;FluentValidation's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;11.11.0&lt;/h2&gt;
-&lt;h1&gt;Release notes&lt;/h1&gt;
-&lt;p&gt;&lt;a
-href="https://docs.fluentvalidation.net/en/latest/upgrading-to-11.html"&gt;Please
-read the upgrade guide if you are moving from 10.x to 11.x&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Note that the after 11.1.0 release, the
-&lt;code&gt;FluentValidation.AspNetCore&lt;/code&gt; package has been moved to a
-separate repository and is now versioned and released separately. These
-release notes now only apply to the core &lt;code&gt;FluentValidation&lt;/code&gt;
-package. For &lt;code&gt;FluentValidation.AspNetCore&lt;/code&gt; release notes,
-please visit the &lt;a
-href="https://github.com/FluentValidation/FluentValidation.AspNetCore"&gt;FluentValidation.AspNetCore
-repository&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Changes in 11.11.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add additional overload of WithState that takes a context (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2276"&gt;#2276&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.10.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add WhereAsync as conterpart to Where on collection rules (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2240"&gt;#2240&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Create IEnumValidator to expose the targeted Enum type of
-EnumValidator (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2244"&gt;#2244&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add Romansh language translations (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2239"&gt;#2239&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.9.2&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;ScalePrecisionValidator&lt;/code&gt; error message clarification (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2211"&gt;#2211&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.9.1&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix issue with CascadeMode on child validators (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2207"&gt;#2207&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.9.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix memory leak in NotEmptyValidator/EmptyValidator (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2174"&gt;#2174&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add more descriptive error messages if a rule throws a
-&lt;code&gt;NullReferenceException&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2152"&gt;#2152&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add support for caching root parameter expressions (eg
-&lt;code&gt;RuleFor(x =&amp;gt; x)&lt;/code&gt;) (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2168"&gt;#2168&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Prevent &lt;code&gt;AddValidatorsFromAssemblyContaining&lt;/code&gt; from
-registering validators twice (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2182"&gt;#2182&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add builds for .net 8&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.8.1&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix unintentional behavioural changes in introduced in the previous
-release as part of &lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2158"&gt;#2158&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.8.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;AbstractValidator.OnRuleAdded&lt;/code&gt; to allow
-customization of rule instances after creation (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2114"&gt;#2114&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix Serbian translation of LengthValidator (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2147"&gt;#2147&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix chinese culture codes (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2151"&gt;#2151&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add Khmer translations (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2155"&gt;#2155&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Various performance improvements (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2158"&gt;#2158&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix ChildRules with class hierarchies (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2165"&gt;#2165&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.7.1&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Resolved issue with combining multiple ValidationResult instances
-where RuleSetsExecuted wasn't properly set on the combined result (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2125"&gt;#2125&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.7.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add additional constructor for combining multiple ValidationResult
-instances (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2125"&gt;#2125&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Add PropertyPath placeholder (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2134"&gt;#2134&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix Brazilian Portuguese translation (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2131"&gt;#2131&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Changes in 11.6.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add OnFailurecCreated callback in ValidatorOptions.Global (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2120"&gt;#2120&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix typo in Russian localization (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2102"&gt;#2102&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/FluentValidation/FluentValidation/blob/main/Changelog.txt"&gt;FluentValidation's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;11.11.0 - 16 Nov 2024
-Add additional overload of WithState that takes a context (&lt;a
-href="https://redirect.github.com/JeremySkinner/fluentvalidation/issues/2276"&gt;#2276&lt;/a&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/c8c6400fa2f467d65669b78804613d44066c1c33"&gt;&lt;code&gt;c8c6400&lt;/code&gt;&lt;/a&gt;
-Update version and changelog&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/8f9a24b51aee1721a88824c7a5e18aaefcdda8d0"&gt;&lt;code&gt;8f9a24b&lt;/code&gt;&lt;/a&gt;
-Simplify test implementation&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/7a82579cf28a09342ddabfff28e09bd994cd6330"&gt;&lt;code&gt;7a82579&lt;/code&gt;&lt;/a&gt;
-Add WithState(...) overload with access to
-ValidationContext&amp;lt;T&amp;gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/f534dca8bee4223dbc8f30e2a1870b59a390177c"&gt;&lt;code&gt;f534dca&lt;/code&gt;&lt;/a&gt;
-move to LangVersion&amp;gt;12&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/0b4867df6af7cdd715b6d57965ff746e91425502"&gt;&lt;code&gt;0b4867d&lt;/code&gt;&lt;/a&gt;
-leverage MSBuildThisFileDirectory to simplify path resolution&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/4566c4f91f8aed3d05f3185f301d234a97ddaa3f"&gt;&lt;code&gt;4566c4f&lt;/code&gt;&lt;/a&gt;
-remove LegacyRulesetSplit&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/f322bb3d6d37e7cf9c8bccc1be0727ef75e30dce"&gt;&lt;code&gt;f322bb3&lt;/code&gt;&lt;/a&gt;
-remove some redundant casts&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/550ec5fff2a90c3da41b067f4831186aa833af64"&gt;&lt;code&gt;550ec5f&lt;/code&gt;&lt;/a&gt;
-move SignAssembly to props and remove redundant DelaySign&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/bc2eb7b4c8c12683009887fc0f6b76855a0d1090"&gt;&lt;code&gt;bc2eb7b&lt;/code&gt;&lt;/a&gt;
-remove some redundant private set&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/FluentValidation/FluentValidation/commit/3cc76cd041c7e996d8f3e0c2683dedc22e6b8f9b"&gt;&lt;code&gt;3cc76cd&lt;/code&gt;&lt;/a&gt;
-remove some usings&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/JeremySkinner/fluentvalidation/compare/11.10.0...11.11.0"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=FluentValidation&amp;package-manager=nuget&amp;previous-version=11.10.0&amp;new-version=11.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JJs-Waste-Recycling/Modeller</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a365365</div>
-                                        <div class="message">Bump Microsoft.NET.Test.Sdk from 17.11.1 to 17.12.0 (#137)
-
-[//]: # (dependabot-start)
-⚠️  **Dependabot is rebasing this PR** ⚠️ 
-
-Rebasing might not happen immediately, so don't worry if this takes some
-time.
-
-Note: if you make any changes to this PR yourself, they will take
-precedence over the rebase.
-
----
-
-[//]: # (dependabot-end)
-
-Bumps [Microsoft.NET.Test.Sdk](https://github.com/microsoft/vstest) from
-17.11.1 to 17.12.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/microsoft/vstest/releases"&gt;Microsoft.NET.Test.Sdk's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v17.12.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Dispose IDisposables in HtmlTransformer by &lt;a
-href="https://github.com/omajid"&gt;&lt;code&gt;@​omajid&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5099"&gt;microsoft/vstest#5099&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dipose XmlReaders in Microsoft.TestPlatform.Common.RunSettings by &lt;a
-href="https://github.com/omajid"&gt;&lt;code&gt;@​omajid&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5100"&gt;microsoft/vstest#5100&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;use some collection expressions by &lt;a
-href="https://github.com/SimonCropp"&gt;&lt;code&gt;@​SimonCropp&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5055"&gt;microsoft/vstest#5055&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix Reference typos by &lt;a
-href="https://github.com/SimonCropp"&gt;&lt;code&gt;@​SimonCropp&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5155"&gt;microsoft/vstest#5155&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add option to overwrite trx without warning by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5141"&gt;microsoft/vstest#5141&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Internal and infrastructure fixes:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Downgrade xunit skip warning to info by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/10379"&gt;microsoft/vstest#10379&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fallback to latest runtimeconfig when none is found by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5136"&gt;microsoft/vstest#5136&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Verify architecture and version of produced exes by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5134"&gt;microsoft/vstest#5134&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix runtime config tests by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5137"&gt;microsoft/vstest#5137&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dispose helper when parsing args by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5126"&gt;microsoft/vstest#5126&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Cleanup and bump required runtimes by &lt;a
-href="https://github.com/Evangelink"&gt;&lt;code&gt;@​Evangelink&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5139"&gt;microsoft/vstest#5139&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix help warnings by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5140"&gt;microsoft/vstest#5140&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix timing in simple log by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5143"&gt;microsoft/vstest#5143&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Check vstest.console.dll instead of .exe by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5149"&gt;microsoft/vstest#5149&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Report version from nuget check by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5161"&gt;microsoft/vstest#5161&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Move IncludeSourceRevisionInInformationalVersion by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5166"&gt;microsoft/vstest#5166&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Enable or disable new logger based on TL flag by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5167"&gt;microsoft/vstest#5167&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating Microsoft.CodeCoverage package structure by &lt;a
-href="https://github.com/fhnaseer"&gt;&lt;code&gt;@​fhnaseer&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5169"&gt;microsoft/vstest#5169&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Wait for Discovery to initialize before Cancelling it by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5177"&gt;microsoft/vstest#5177&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Adding condition to disable MsCoverage refrenced path maps by &lt;a
-href="https://github.com/fhnaseer"&gt;&lt;code&gt;@​fhnaseer&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5189"&gt;microsoft/vstest#5189&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Forward error output from testhost as info by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5192"&gt;microsoft/vstest#5192&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update Microsoft.Extensions.DependencyModel to 3.1.0 by &lt;a
-href="https://github.com/nohwnd"&gt;&lt;code&gt;@​nohwnd&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/5188"&gt;microsoft/vstest#5188&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ExcludeFromSourceBuild-&amp;gt;ExcludeFromSourceOnlyBuild by &lt;a
-href="https://github.com/mmitche"&gt;&lt;code&gt;@​mmitche&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/10354"&gt;microsoft/vstest#10354&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Enable policheck by &lt;a
-href="https://github.com/jakubch1"&gt;&lt;code&gt;@​jakubch1&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/microsoft/vstest/pull/10363"&gt;microsoft/vstest#10363&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/microsoft/vstest/compare/v17.11.1...v17.12.0"&gt;https://github.com/microsoft/vstest/compare/v17.11.1...v17.12.0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/bc9161306b23641b0364b8f93d546da4d48da1eb"&gt;&lt;code&gt;bc91613&lt;/code&gt;&lt;/a&gt;
-Downgrade xunit skip warning to info (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/10379"&gt;#10379&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/c8f1628bcfce589e3165e171ecf8a8ce5b3c688f"&gt;&lt;code&gt;c8f1628&lt;/code&gt;&lt;/a&gt;
-Convert to auto property (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/10365"&gt;#10365&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/8c6ff8c6a8e74e74f91a221719ab93e00b5983e0"&gt;&lt;code&gt;8c6ff8c&lt;/code&gt;&lt;/a&gt;
-Use macos13&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/fa0c8fdeffaed154d3181fb2c18ffc7d5c22e3c8"&gt;&lt;code&gt;fa0c8fd&lt;/code&gt;&lt;/a&gt;
-Rebrand to release&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/c02e98d3342b63085ffc57ac6796d6a2cbe3d2c2"&gt;&lt;code&gt;c02e98d&lt;/code&gt;&lt;/a&gt;
-Update diagnose.md&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/ec81d7d38cfea9a894426c515baa9593affcc8c6"&gt;&lt;code&gt;ec81d7d&lt;/code&gt;&lt;/a&gt;
-Enable policheck (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/10363"&gt;#10363&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/09b76005ba2026b27b8272f1230a136ebd618ac2"&gt;&lt;code&gt;09b7600&lt;/code&gt;&lt;/a&gt;
-[main] Update dependencies from devdiv/DevDiv/vs-code-coverage (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/10360"&gt;#10360&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/4f16fc041b85e102c7ee783ed4124d733d067c74"&gt;&lt;code&gt;4f16fc0&lt;/code&gt;&lt;/a&gt;
-[main] Update dependencies from devdiv/DevDiv/vs-code-coverage (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/10353"&gt;#10353&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/1eb6f23d7739d540ca479b5c031c5fbbb5458a26"&gt;&lt;code&gt;1eb6f23&lt;/code&gt;&lt;/a&gt;
-ExcludeFromSourceBuild-&amp;gt;ExcludeFromSourceOnlyBuild (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/10354"&gt;#10354&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/microsoft/vstest/commit/96977dbeec2d51f920338c303eba8c23bafb35b4"&gt;&lt;code&gt;96977db&lt;/code&gt;&lt;/a&gt;
-Update Microsoft.Extensions.DependencyModel to 3.1.0 (&lt;a
-href="https://redirect.github.com/microsoft/vstest/issues/5188"&gt;#5188&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/microsoft/vstest/compare/v17.11.1...v17.12.0"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=Microsoft.NET.Test.Sdk&amp;package-manager=nuget&amp;previous-version=17.11.1&amp;new-version=17.12.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Allan Nielsen &lt;2005474+Allann@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2024, 10:23:18 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2024, 10:20:20 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
